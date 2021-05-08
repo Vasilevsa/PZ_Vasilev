@@ -1,0 +1,44 @@
+[
+  {
+    "FullName": "Отель \"Чемодановъ\"",
+    "AdmArea": "Центральный административный округ",
+    "District": "Басманный район",
+    "Address": "улица Покровка, дом 2/1, строение 1 ",
+    "LegalAddress": "",
+    "ContactPhone": [
+      {
+        "PublicPhone": "(495) 646-88-91"
+      }
+    ],
+    "Email": "anna.konobeeva@chemodanov-hotel.ru",
+    "WebSite": "www.чемодановъ-отель.рф"
+  },
+  {
+    "FullName": "Отель «Бородино» ООО «БК на Русаковской»",
+    "AdmArea": "Центральный административный округ",
+    "District": "Красносельский район",
+    "Address": "улица Русаковская, дом 13, строение 5",
+    "LegalAddress": "107140, гогод Москва, улица Русаковская, дом 13, строение 5",
+    "ContactPhone": [
+      {
+        "PublicPhone": "(495) 981-95-15"
+      }
+    ],
+    "Email": "reception@borodino-hotel.com ",
+    "WebSite": "borodino-hotel.com/"
+  },
+  {
+    "FullName": "Гостиница «Акварель»",
+    "AdmArea": "Троицкий административный округ",
+    "District": "поселение Первомайское",
+    "Address": "деревня Рогозино",
+    "LegalAddress": "143297, город Москва, поселение Первомайское, деревня Рогозино",
+    "ContactPhone": [
+      {
+        "PublicPhone": "(495) 256-20-72"
+      }
+    ],
+    "Email": "reservation@imperialhotel.ru",
+    "WebSite": "www.imperialhotel.ru"
+  }
+]
